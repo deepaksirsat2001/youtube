@@ -1,0 +1,16 @@
+export const categoryData = [
+  "All",
+  "Gaming",
+  "Javascript",
+  "Python",
+  "Music",
+  "Mixes",
+  "Lives",
+  "Comedy",
+  "Programming",
+  "Lofi Songs",
+  "Couples",
+  "Teenage Programmer",
+  "Arijit Singh",
+  "T-Series",
+];
